@@ -30,5 +30,3 @@ while True:
     print("******** Last Data *********")
     show_data(con)
     time.sleep(10)
-
-print(data)
